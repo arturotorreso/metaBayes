@@ -1,0 +1,24 @@
+[package]
+name = "metamix_rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# Bioinformatics I/O (BAM/SAM/CRAM)
+noodles = { version = "0.104.0", features = ["bam", "sam", "bgzf"] }
+# Command Line Argument Parser
+clap = { version = "4.4", features = ["derive"] }
+# Error Handling
+anyhow = "1.0"
+# Math
+statrs = "0.18.0"
+# Sparse matrix management
+nalgebra-sparse = "0.11.0"
+nalgebra = "0.34.1"
+# Parsing taxonomic names
+regex = "1.10"
+# Parallel
+rayon = "1.7"
+# Distributions
+rand = "0.9.2"
+rand_distr = "0.5.1"

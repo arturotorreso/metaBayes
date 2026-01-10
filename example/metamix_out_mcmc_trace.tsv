@@ -1,0 +1,1351 @@
+Iteration	LogLikelihood	MoveType
+100	-4408.6061	Reject
+101	-4402.7665	Swapped from Chain 1
+101	-4402.7665	Reject
+102	-4402.7665	Reject
+103	-4401.4501	Swapped from Chain 1
+103	-4401.4501	Reject
+104	-4401.4501	Reject
+105	-4401.7233	Swapped from Chain 1
+105	-4401.7233	Reject
+106	-4401.7233	Reject
+107	-4401.4833	Swapped from Chain 1
+107	-4401.4833	Reject
+108	-4401.4833	Reject
+109	-4401.7222	Swapped from Chain 1
+109	-4401.7222	Reject
+110	-4401.7222	Reject
+111	-4401.7233	Swapped from Chain 1
+111	-4401.7233	Reject
+112	-4401.7233	Reject
+113	-4402.7572	Swapped from Chain 1
+113	-4402.7572	Reject
+114	-4402.7572	Reject
+115	-4403.4176	Swapped from Chain 1
+115	-4403.4176	Reject
+116	-4403.4176	Reject
+117	-4402.7286	Swapped from Chain 1
+117	-4402.7286	Reject
+118	-4402.7286	Reject
+119	-4401.5098	Swapped from Chain 1
+119	-4401.5098	Reject
+120	-4401.5098	Reject
+121	-4401.7234	Swapped from Chain 1
+121	-4401.7234	Reject
+122	-4401.7234	Reject
+123	-4401.7233	Swapped from Chain 1
+123	-4401.7233	Reject
+124	-4401.7233	Reject
+125	-4402.7495	Swapped from Chain 1
+125	-4402.7495	Reject
+126	-4402.7495	Reject
+127	-4402.7665	Swapped from Chain 1
+127	-4402.7665	Reject
+128	-4402.7665	Reject
+129	-4403.8347	Swapped from Chain 1
+129	-4403.8347	Reject
+130	-4403.8347	Reject
+131	-4401.6270	Swapped from Chain 1
+131	-4401.6270	Reject
+132	-4401.6270	Reject
+133	-4401.4501	Swapped from Chain 1
+133	-4401.4501	Reject
+134	-4401.4501	Reject
+135	-4401.4833	Swapped from Chain 1
+135	-4401.4833	Reject
+136	-4401.4833	Reject
+137	-4401.7222	Swapped from Chain 1
+137	-4401.7222	Reject
+138	-4401.7222	Reject
+139	-4401.7222	Swapped from Chain 1
+139	-4401.7222	Reject
+140	-4401.7222	Reject
+141	-4402.7286	Swapped from Chain 1
+141	-4402.7286	Reject
+142	-4402.7286	Reject
+143	-4401.7233	Swapped from Chain 1
+143	-4401.7233	Reject
+144	-4401.7233	Reject
+145	-4403.4176	Swapped from Chain 1
+145	-4403.4176	Reject
+146	-4403.4176	Reject
+147	-4401.5098	Swapped from Chain 1
+147	-4401.5098	Reject
+148	-4401.5098	Reject
+149	-4401.7234	Swapped from Chain 1
+149	-4401.7234	Reject
+150	-4401.7234	Reject
+151	-4401.5759	Swapped from Chain 1
+151	-4401.5759	Reject
+152	-4401.5759	Reject
+153	-4402.7286	Swapped from Chain 1
+153	-4402.7286	Reject
+154	-4402.7286	Reject
+155	-4401.7233	Swapped from Chain 1
+155	-4401.7233	Reject
+156	-4401.7233	Reject
+157	-4402.7665	Swapped from Chain 1
+157	-4402.7665	Reject
+158	-4402.7665	Reject
+159	-4401.6270	Swapped from Chain 1
+159	-4401.6270	Reject
+160	-4401.6270	Reject
+161	-4401.4501	Swapped from Chain 1
+161	-4401.4501	Reject
+162	-4401.4501	Reject
+163	-4401.5098	Swapped from Chain 1
+163	-4401.5098	Reject
+164	-4401.5098	Reject
+165	-4402.7609	Swapped from Chain 1
+165	-4402.7609	Reject
+166	-4402.7609	Reject
+167	-4401.4833	Swapped from Chain 1
+167	-4401.4833	Reject
+168	-4401.4833	Reject
+169	-4401.6042	Swapped from Chain 1
+169	-4401.6042	Reject
+170	-4401.6042	Reject
+171	-4401.7233	Swapped from Chain 1
+171	-4401.7233	Reject
+172	-4401.7233	Reject
+173	-4401.7233	Swapped from Chain 1
+173	-4401.7233	Reject
+174	-4401.7233	Reject
+175	-4401.7222	Swapped from Chain 1
+175	-4401.7222	Reject
+176	-4401.7222	Reject
+177	-4401.4833	Swapped from Chain 1
+177	-4401.4833	Reject
+178	-4401.4833	Reject
+179	-4403.4176	Swapped from Chain 1
+179	-4403.4176	Reject
+180	-4403.4176	Reject
+181	-4401.5408	Swapped from Chain 1
+181	-4401.5408	Reject
+182	-4401.5408	Reject
+183	-4402.7495	Swapped from Chain 1
+183	-4402.7495	Reject
+184	-4402.7495	Reject
+185	-4401.7234	Swapped from Chain 1
+185	-4401.7234	Reject
+186	-4401.7234	Reject
+187	-4401.5759	Swapped from Chain 1
+187	-4401.5759	Reject
+188	-4401.5759	Reject
+189	-4402.7286	Swapped from Chain 1
+189	-4402.7286	Reject
+190	-4402.7286	Reject
+191	-4401.4501	Swapped from Chain 1
+191	-4401.4501	Reject
+192	-4401.4501	Reject
+193	-4402.7665	Swapped from Chain 1
+193	-4402.7665	Reject
+194	-4402.7665	Reject
+195	-4401.5482	Swapped from Chain 1
+195	-4401.5482	Reject
+196	-4401.5482	Reject
+197	-4401.6270	Swapped from Chain 1
+197	-4401.6270	Reject
+198	-4401.6270	Reject
+199	-4401.5098	Swapped from Chain 1
+199	-4401.5098	Reject
+200	-4401.5098	Reject
+201	-4401.5081	Swapped from Chain 1
+201	-4401.5081	Reject
+202	-4401.5081	Reject
+203	-4402.7609	Swapped from Chain 1
+203	-4402.7609	Reject
+204	-4402.7609	Reject
+205	-4402.5773	Swapped from Chain 1
+205	-4402.5773	Reject
+206	-4402.5773	Reject
+207	-4401.7233	Swapped from Chain 1
+207	-4401.7233	Reject
+208	-4401.7233	Reject
+209	-4402.5474	Swapped from Chain 1
+209	-4402.5474	Reject
+210	-4402.5474	Reject
+211	-4401.7222	Swapped from Chain 1
+211	-4401.7222	Reject
+212	-4401.7222	Reject
+213	-4401.4833	Swapped from Chain 1
+213	-4401.4833	Reject
+214	-4401.4833	Reject
+215	-4401.4533	Swapped from Chain 1
+215	-4401.4533	Reject
+216	-4401.4533	Reject
+217	-4402.5969	Swapped from Chain 1
+217	-4402.5969	Reject
+218	-4402.5969	Reject
+219	-4402.7495	Swapped from Chain 1
+219	-4402.7495	Reject
+220	-4402.7495	Reject
+221	-4401.5432	Swapped from Chain 1
+221	-4401.5432	Reject
+222	-4401.5432	Reject
+223	-4401.5759	Swapped from Chain 1
+223	-4401.5759	Reject
+224	-4401.5759	Reject
+225	-4402.7286	Swapped from Chain 1
+225	-4402.7286	Reject
+226	-4402.7286	Reject
+227	-4401.4581	Swapped from Chain 1
+227	-4401.4581	Reject
+228	-4401.4581	Reject
+229	-4401.4501	Swapped from Chain 1
+229	-4401.4501	Reject
+230	-4401.4501	Reject
+231	-4401.4833	Swapped from Chain 1
+231	-4401.4833	Reject
+232	-4401.4833	Reject
+233	-4401.6270	Swapped from Chain 1
+233	-4401.6270	Reject
+234	-4401.6270	Reject
+235	-4401.5098	Swapped from Chain 1
+235	-4401.5098	Reject
+236	-4401.5098	Reject
+237	-4401.5081	Swapped from Chain 1
+237	-4401.5081	Reject
+238	-4401.5081	Reject
+239	-4401.4533	Swapped from Chain 1
+239	-4401.4533	Reject
+240	-4401.4533	Reject
+241	-4402.5773	Swapped from Chain 1
+241	-4402.5773	Reject
+242	-4402.5773	Reject
+243	-4401.4463	Swapped from Chain 1
+243	-4401.4463	Reject
+244	-4401.4463	Reject
+245	-4401.7233	Swapped from Chain 1
+245	-4401.7233	Reject
+246	-4401.7233	Reject
+247	-4401.7222	Swapped from Chain 1
+247	-4401.7222	Reject
+248	-4401.7222	Reject
+249	-4402.5500	Swapped from Chain 1
+249	-4402.5500	Reject
+250	-4402.5500	Reject
+251	-4401.5432	Swapped from Chain 1
+251	-4401.5432	Reject
+252	-4401.5432	Reject
+253	-4401.5759	Swapped from Chain 1
+253	-4401.5759	Reject
+254	-4401.5759	Reject
+255	-4401.6270	Swapped from Chain 1
+255	-4401.6270	Reject
+256	-4401.6270	Reject
+257	-4401.4501	Swapped from Chain 1
+257	-4401.4501	Reject
+258	-4401.4501	Reject
+259	-4401.4581	Swapped from Chain 1
+259	-4401.4581	Reject
+260	-4401.4581	Reject
+261	-4402.7609	Swapped from Chain 1
+261	-4402.7609	Reject
+262	-4402.7609	Reject
+263	-4401.5098	Swapped from Chain 1
+263	-4401.5098	Reject
+264	-4401.5098	Reject
+265	-4401.5432	Swapped from Chain 1
+265	-4401.5432	Reject
+266	-4401.5432	Reject
+267	-4402.5500	Swapped from Chain 1
+267	-4402.5500	Reject
+268	-4402.5500	Reject
+269	-4402.7495	Swapped from Chain 1
+269	-4402.7495	Reject
+270	-4402.7495	Reject
+271	-4401.4463	Swapped from Chain 1
+271	-4401.4463	Reject
+272	-4401.4463	Reject
+273	-4401.5081	Swapped from Chain 1
+273	-4401.5081	Reject
+274	-4401.5081	Reject
+275	-4401.6461	Swapped from Chain 1
+275	-4401.6461	Reject
+276	-4401.6461	Reject
+277	-4401.7233	Swapped from Chain 1
+277	-4401.7233	Reject
+278	-4401.7233	Reject
+279	-4402.7286	Swapped from Chain 1
+279	-4402.7286	Reject
+280	-4402.7286	Reject
+281	-4401.4508	Swapped from Chain 1
+281	-4401.4508	Reject
+282	-4401.4508	Reject
+283	-4402.5773	Swapped from Chain 1
+283	-4402.5773	Reject
+284	-4402.5773	Reject
+285	-4401.5759	Swapped from Chain 1
+285	-4401.5759	Reject
+286	-4401.5759	Reject
+287	-4402.7665	Swapped from Chain 1
+287	-4402.7665	Reject
+288	-4402.7665	Reject
+289	-4401.4501	Swapped from Chain 1
+289	-4401.4501	Reject
+290	-4401.4501	Reject
+291	-4401.6270	Swapped from Chain 1
+291	-4401.6270	Reject
+292	-4401.6270	Reject
+293	-4401.5432	Swapped from Chain 1
+293	-4401.5432	Reject
+294	-4401.5432	Reject
+295	-4401.4581	Swapped from Chain 1
+295	-4401.4581	Reject
+296	-4401.4581	Reject
+297	-4402.5430	Swapped from Chain 1
+297	-4402.5430	Reject
+298	-4402.5430	Reject
+299	-4402.7609	Swapped from Chain 1
+299	-4402.7609	Reject
+300	-4402.7609	Reject
+301	-4401.5098	Swapped from Chain 1
+301	-4401.5098	Reject
+302	-4401.5098	Reject
+303	-4401.5081	Swapped from Chain 1
+303	-4401.5081	Reject
+304	-4401.5081	Reject
+305	-4401.5704	Swapped from Chain 1
+305	-4401.5704	Reject
+306	-4401.5704	Reject
+307	-4401.4463	Swapped from Chain 1
+307	-4401.4463	Reject
+308	-4401.4463	Reject
+309	-4401.5120	Swapped from Chain 1
+309	-4401.5120	Reject
+310	-4401.5120	Reject
+311	-4401.4501	Swapped from Chain 1
+311	-4401.4501	Reject
+312	-4401.4501	Reject
+313	-4401.7233	Swapped from Chain 1
+313	-4401.7233	Reject
+314	-4401.7233	Reject
+315	-4402.7286	Swapped from Chain 1
+315	-4402.7286	Reject
+316	-4402.7286	Reject
+317	-4401.4560	Swapped from Chain 1
+317	-4401.4560	Reject
+318	-4401.4560	Reject
+319	-4401.4508	Swapped from Chain 1
+319	-4401.4508	Reject
+320	-4401.4508	Reject
+321	-4402.5773	Swapped from Chain 1
+321	-4402.5773	Reject
+322	-4402.5773	Reject
+323	-4401.5759	Swapped from Chain 1
+323	-4401.5759	Reject
+324	-4401.5759	Reject
+325	-4401.4813	Swapped from Chain 1
+325	-4401.4813	Reject
+326	-4401.4813	Reject
+327	-4401.4501	Swapped from Chain 1
+327	-4401.4501	Reject
+328	-4401.4501	Reject
+329	-4401.4508	Swapped from Chain 1
+329	-4401.4508	Reject
+330	-4401.4508	Reject
+331	-4401.4485	Swapped from Chain 1
+331	-4401.4485	Reject
+332	-4401.4485	Reject
+333	-4401.4581	Swapped from Chain 1
+333	-4401.4581	Reject
+334	-4401.4581	Reject
+335	-4402.7609	Swapped from Chain 1
+335	-4402.7609	Reject
+336	-4402.7609	Reject
+337	-4401.5098	Swapped from Chain 1
+337	-4401.5098	Reject
+338	-4401.5098	Reject
+339	-4401.5081	Swapped from Chain 1
+339	-4401.5081	Reject
+340	-4401.5081	Reject
+341	-4401.4960	Swapped from Chain 1
+341	-4401.4960	Reject
+342	-4401.4960	Reject
+343	-4401.5704	Swapped from Chain 1
+343	-4401.5704	Reject
+344	-4401.5704	Reject
+345	-4401.4463	Swapped from Chain 1
+345	-4401.4463	Reject
+346	-4401.4463	Reject
+347	-4401.5120	Swapped from Chain 1
+347	-4401.5120	Reject
+348	-4401.5120	Reject
+349	-4401.4560	Swapped from Chain 1
+349	-4401.4560	Reject
+350	-4401.4560	Reject
+351	-4401.4508	Swapped from Chain 1
+351	-4401.4508	Reject
+352	-4401.4508	Reject
+353	-4401.4813	Swapped from Chain 1
+353	-4401.4813	Reject
+354	-4401.4813	Reject
+355	-4401.5757	Swapped from Chain 1
+355	-4401.5757	Reject
+356	-4401.5757	Reject
+357	-4401.5759	Swapped from Chain 1
+357	-4401.5759	Reject
+358	-4401.5759	Reject
+359	-4402.5773	Swapped from Chain 1
+359	-4402.5773	Reject
+360	-4402.5773	Reject
+361	-4402.7286	Swapped from Chain 1
+361	-4402.7286	Reject
+362	-4402.7286	Reject
+363	-4401.4501	Swapped from Chain 1
+363	-4401.4501	Reject
+364	-4401.4501	Reject
+365	-4401.4560	Swapped from Chain 1
+365	-4401.4560	Reject
+366	-4401.4560	Reject
+367	-4401.4485	Swapped from Chain 1
+367	-4401.4485	Reject
+368	-4401.4485	Reject
+369	-4401.4581	Swapped from Chain 1
+369	-4401.4581	Reject
+370	-4401.4581	Reject
+371	-4402.7609	Swapped from Chain 1
+371	-4402.7609	Reject
+372	-4402.7609	Reject
+373	-4401.5098	Swapped from Chain 1
+373	-4401.5098	Reject
+374	-4401.5098	Reject
+375	-4401.4678	Swapped from Chain 1
+375	-4401.4678	Reject
+376	-4401.4678	Reject
+377	-4401.4960	Swapped from Chain 1
+377	-4401.4960	Reject
+378	-4401.4960	Reject
+379	-4401.4475	Swapped from Chain 1
+379	-4401.4475	Reject
+380	-4401.4475	Reject
+381	-4401.5704	Swapped from Chain 1
+381	-4401.5704	Reject
+382	-4401.5704	Reject
+383	-4401.4463	Swapped from Chain 1
+383	-4401.4463	Reject
+384	-4401.4463	Reject
+385	-4401.4485	Swapped from Chain 1
+385	-4401.4485	Reject
+386	-4401.4485	Reject
+387	-4401.5757	Swapped from Chain 1
+387	-4401.5757	Reject
+388	-4401.5757	Reject
+389	-4401.4508	Swapped from Chain 1
+389	-4401.4508	Reject
+390	-4401.4508	Reject
+391	-4401.4501	Swapped from Chain 1
+391	-4401.4501	Reject
+392	-4401.4501	Reject
+393	-4401.4560	Swapped from Chain 1
+393	-4401.4560	Reject
+394	-4401.4560	Reject
+395	-4402.5773	Swapped from Chain 1
+395	-4402.5773	Reject
+396	-4402.5773	Reject
+397	-4401.5759	Swapped from Chain 1
+397	-4401.5759	Reject
+398	-4401.5759	Reject
+399	-4402.7286	Swapped from Chain 1
+399	-4402.7286	Reject
+400	-4402.7286	Reject
+401	-4402.7662	Swapped from Chain 1
+401	-4402.7662	Reject
+402	-4402.7662	Reject
+403	-4402.5448	Swapped from Chain 1
+403	-4402.5448	Reject
+404	-4402.5448	Reject
+405	-4401.4581	Swapped from Chain 1
+405	-4401.4581	Reject
+406	-4401.4581	Reject
+407	-4402.7609	Swapped from Chain 1
+407	-4402.7609	Reject
+408	-4402.7609	Reject
+409	-4401.4678	Swapped from Chain 1
+409	-4401.4678	Reject
+410	-4401.4678	Reject
+411	-4401.5098	Swapped from Chain 1
+411	-4401.5098	Reject
+412	-4401.5098	Reject
+413	-4401.4960	Swapped from Chain 1
+413	-4401.4960	Reject
+414	-4401.4960	Reject
+415	-4401.4475	Swapped from Chain 1
+415	-4401.4475	Reject
+416	-4401.4475	Reject
+417	-4401.5704	Swapped from Chain 1
+417	-4401.5704	Reject
+418	-4401.5704	Reject
+419	-4401.4463	Swapped from Chain 1
+419	-4401.4463	Reject
+420	-4401.4463	Reject
+421	-4401.4485	Swapped from Chain 1
+421	-4401.4485	Reject
+422	-4401.4485	Reject
+423	-4401.5757	Swapped from Chain 1
+423	-4401.5757	Reject
+424	-4401.5757	Reject
+425	-4401.4508	Swapped from Chain 1
+425	-4401.4508	Reject
+426	-4401.4508	Reject
+427	-4401.4501	Swapped from Chain 1
+427	-4401.4501	Reject
+428	-4401.4501	Reject
+429	-4401.4560	Swapped from Chain 1
+429	-4401.4560	Reject
+430	-4401.4560	Reject
+431	-4402.5773	Swapped from Chain 1
+431	-4402.5773	Reject
+432	-4402.5773	Reject
+433	-4401.5759	Swapped from Chain 1
+433	-4401.5759	Reject
+434	-4401.5759	Reject
+435	-4401.4581	Swapped from Chain 1
+435	-4401.4581	Reject
+436	-4401.4581	Reject
+437	-4402.7662	Swapped from Chain 1
+437	-4402.7662	Reject
+438	-4402.7662	Reject
+439	-4401.4467	Swapped from Chain 1
+439	-4401.4467	Reject
+440	-4401.4467	Reject
+441	-4401.4960	Swapped from Chain 1
+441	-4401.4960	Reject
+442	-4401.4960	Reject
+443	-4402.7609	Swapped from Chain 1
+443	-4402.7609	Reject
+444	-4402.7609	Reject
+445	-4401.4678	Swapped from Chain 1
+445	-4401.4678	Reject
+446	-4401.4678	Reject
+447	-4401.4463	Swapped from Chain 1
+447	-4401.4463	Reject
+448	-4401.4463	Reject
+449	-4402.7286	Swapped from Chain 1
+449	-4402.7286	Reject
+450	-4402.7286	Reject
+451	-4401.4475	Swapped from Chain 1
+451	-4401.4475	Reject
+452	-4401.4475	Reject
+453	-4401.4476	Swapped from Chain 1
+453	-4401.4476	Reject
+454	-4401.4476	Reject
+455	-4401.5704	Swapped from Chain 1
+455	-4401.5704	Reject
+456	-4401.5704	Reject
+457	-4401.4508	Swapped from Chain 1
+457	-4401.4508	Reject
+458	-4401.4508	Reject
+459	-4401.5757	Swapped from Chain 1
+459	-4401.5757	Reject
+460	-4401.5757	Reject
+461	-4401.5591	Swapped from Chain 1
+461	-4401.5591	Reject
+462	-4401.5591	Reject
+463	-4402.5594	Swapped from Chain 1
+463	-4402.5594	Reject
+464	-4402.5594	Reject
+465	-4401.4560	Swapped from Chain 1
+465	-4401.4560	Reject
+466	-4401.4560	Reject
+467	-4401.5418	Swapped from Chain 1
+467	-4401.5418	Reject
+468	-4401.5418	Reject
+469	-4402.5773	Swapped from Chain 1
+469	-4402.5773	Reject
+470	-4402.5773	Reject
+471	-4401.5759	Swapped from Chain 1
+471	-4401.5759	Reject
+472	-4401.5759	Reject
+473	-4401.4581	Swapped from Chain 1
+473	-4401.4581	Reject
+474	-4401.4581	Reject
+475	-4401.4467	Swapped from Chain 1
+475	-4401.4467	Reject
+476	-4401.4467	Reject
+477	-4401.6779	Swapped from Chain 1
+477	-4401.6779	Reject
+478	-4401.6779	Reject
+479	-4401.4960	Swapped from Chain 1
+479	-4401.4960	Reject
+480	-4401.4960	Reject
+481	-4401.4678	Swapped from Chain 1
+481	-4401.4678	Reject
+482	-4401.4678	Reject
+483	-4401.4463	Swapped from Chain 1
+483	-4401.4463	Reject
+484	-4401.4463	Reject
+485	-4401.4508	Swapped from Chain 1
+485	-4401.4508	Reject
+486	-4401.4508	Reject
+487	-4401.4475	Swapped from Chain 1
+487	-4401.4475	Reject
+488	-4401.4475	Reject
+489	-4401.4476	Swapped from Chain 1
+489	-4401.4476	Reject
+490	-4401.4476	Reject
+491	-4401.5591	Swapped from Chain 1
+491	-4401.5591	Reject
+492	-4401.5591	Reject
+493	-4401.5704	Swapped from Chain 1
+493	-4401.5704	Reject
+494	-4401.5704	Reject
+495	-4401.5757	Swapped from Chain 1
+495	-4401.5757	Reject
+496	-4401.5757	Reject
+497	-4403.2691	Swapped from Chain 1
+497	-4403.2691	Reject
+498	-4403.2691	Reject
+499	-4402.5730	Swapped from Chain 1
+499	-4402.5730	Reject
+500	-4402.5730	Reject
+501	-4401.5418	Swapped from Chain 1
+501	-4401.5418	Reject
+502	-4401.5418	Reject
+503	-4401.4560	Swapped from Chain 1
+503	-4401.4560	Reject
+504	-4401.4560	Reject
+505	-4401.4463	Swapped from Chain 1
+505	-4401.4463	Reject
+506	-4401.4463	Reject
+507	-4402.5773	Swapped from Chain 1
+507	-4402.5773	Reject
+508	-4402.5773	Reject
+509	-4401.5442	Swapped from Chain 1
+509	-4401.5442	Reject
+510	-4401.5442	Reject
+511	-4401.4467	Swapped from Chain 1
+511	-4401.4467	Reject
+512	-4401.4467	Reject
+513	-4401.4461	Swapped from Chain 1
+513	-4401.4461	Reject
+514	-4401.4461	Reject
+515	-4401.6779	Swapped from Chain 1
+515	-4401.6779	Reject
+516	-4401.6779	Reject
+517	-4401.4960	Swapped from Chain 1
+517	-4401.4960	Reject
+518	-4401.4960	Reject
+519	-4401.4678	Swapped from Chain 1
+519	-4401.4678	Reject
+520	-4401.4678	Reject
+521	-4402.5727	Swapped from Chain 1
+521	-4402.5727	Reject
+522	-4402.5727	Reject
+523	-4401.4475	Swapped from Chain 1
+523	-4401.4475	Reject
+524	-4401.4475	Reject
+525	-4401.5407	Swapped from Chain 1
+525	-4401.5407	Reject
+526	-4401.5407	Reject
+527	-4401.5591	Swapped from Chain 1
+527	-4401.5591	Reject
+528	-4401.5591	Reject
+529	-4401.4459	Swapped from Chain 1
+529	-4401.4459	Reject
+530	-4401.4459	Reject
+531	-4401.5757	Swapped from Chain 1
+531	-4401.5757	Reject
+532	-4401.5757	Reject
+533	-4403.2691	Swapped from Chain 1
+533	-4403.2691	Reject
+534	-4403.2691	Reject
+535	-4401.4492	Swapped from Chain 1
+535	-4401.4492	Reject
+536	-4401.4492	Reject
+537	-4402.5730	Swapped from Chain 1
+537	-4402.5730	Reject
+538	-4402.5730	Reject
+539	-4401.5418	Swapped from Chain 1
+539	-4401.5418	Reject
+540	-4401.5418	Reject
+541	-4401.4463	Swapped from Chain 1
+541	-4401.4463	Reject
+542	-4401.4463	Reject
+543	-4401.6779	Swapped from Chain 1
+543	-4401.6779	Reject
+544	-4401.6779	Reject
+545	-4401.5442	Swapped from Chain 1
+545	-4401.5442	Reject
+546	-4401.5442	Reject
+547	-4401.4467	Swapped from Chain 1
+547	-4401.4467	Reject
+548	-4401.4467	Reject
+549	-4401.4511	Swapped from Chain 1
+549	-4401.4511	Reject
+550	-4401.4511	Reject
+551	-4402.5773	Swapped from Chain 1
+551	-4402.5773	Reject
+552	-4402.5773	Reject
+553	-4401.4642	Swapped from Chain 1
+553	-4401.4642	Reject
+554	-4401.4642	Reject
+555	-4401.4960	Swapped from Chain 1
+555	-4401.4960	Reject
+556	-4401.4960	Reject
+557	-4401.4492	Swapped from Chain 1
+557	-4401.4492	Reject
+558	-4401.4492	Reject
+559	-4401.4464	Swapped from Chain 1
+559	-4401.4464	Reject
+560	-4401.4464	Reject
+561	-4401.4475	Swapped from Chain 1
+561	-4401.4475	Reject
+562	-4401.4475	Reject
+563	-4401.5407	Swapped from Chain 1
+563	-4401.5407	Reject
+564	-4401.5407	Reject
+565	-4401.5591	Swapped from Chain 1
+565	-4401.5591	Reject
+566	-4401.5591	Reject
+567	-4401.4459	Swapped from Chain 1
+567	-4401.4459	Reject
+568	-4401.4459	Reject
+569	-4401.5757	Swapped from Chain 1
+569	-4401.5757	Reject
+570	-4401.5757	Reject
+571	-4402.5727	Swapped from Chain 1
+571	-4402.5727	Reject
+572	-4402.5727	Reject
+573	-4401.5895	Swapped from Chain 1
+573	-4401.5895	Reject
+574	-4401.5895	Reject
+575	-4402.5730	Swapped from Chain 1
+575	-4402.5730	Reject
+576	-4402.5730	Reject
+577	-4401.5418	Swapped from Chain 1
+577	-4401.5418	Reject
+578	-4401.5418	Reject
+579	-4401.4463	Swapped from Chain 1
+579	-4401.4463	Reject
+580	-4401.4463	Reject
+581	-4401.4464	Swapped from Chain 1
+581	-4401.4464	Reject
+582	-4401.4464	Reject
+583	-4401.5442	Swapped from Chain 1
+583	-4401.5442	Reject
+584	-4401.5442	Reject
+585	-4401.4467	Swapped from Chain 1
+585	-4401.4467	Reject
+586	-4401.4467	Reject
+587	-4401.4511	Swapped from Chain 1
+587	-4401.4511	Reject
+588	-4401.4511	Reject
+589	-4402.5773	Swapped from Chain 1
+589	-4402.5773	Reject
+590	-4402.5773	Reject
+591	-4401.4642	Swapped from Chain 1
+591	-4401.4642	Reject
+592	-4401.4642	Reject
+593	-4401.4960	Swapped from Chain 1
+593	-4401.4960	Reject
+594	-4401.4960	Reject
+595	-4401.4492	Swapped from Chain 1
+595	-4401.4492	Reject
+596	-4401.4492	Reject
+597	-4401.5442	Swapped from Chain 1
+597	-4401.5442	Reject
+598	-4401.5442	Reject
+599	-4401.5407	Swapped from Chain 1
+599	-4401.5407	Reject
+600	-4401.5407	Reject
+601	-4401.4459	Swapped from Chain 1
+601	-4401.4459	Reject
+602	-4401.4459	Reject
+603	-4401.4459	Swapped from Chain 1
+603	-4401.4459	Reject
+604	-4401.4459	Reject
+605	-4401.5757	Swapped from Chain 1
+605	-4401.5757	Reject
+606	-4401.5757	Reject
+607	-4401.4464	Swapped from Chain 1
+607	-4401.4464	Reject
+608	-4401.4464	Reject
+609	-4401.5895	Swapped from Chain 1
+609	-4401.5895	Reject
+610	-4401.5895	Reject
+611	-4401.5418	Swapped from Chain 1
+611	-4401.5418	Reject
+612	-4401.5418	Reject
+613	-4401.4467	Swapped from Chain 1
+613	-4401.4467	Reject
+614	-4401.4467	Reject
+615	-4402.5730	Swapped from Chain 1
+615	-4402.5730	Reject
+616	-4402.5730	Reject
+617	-4401.4642	Swapped from Chain 1
+617	-4401.4642	Reject
+618	-4401.4642	Reject
+619	-4401.4459	Swapped from Chain 1
+619	-4401.4459	Reject
+620	-4401.4459	Reject
+621	-4401.5442	Swapped from Chain 1
+621	-4401.5442	Reject
+622	-4401.5442	Reject
+623	-4401.4511	Swapped from Chain 1
+623	-4401.4511	Reject
+624	-4401.4511	Reject
+625	-4401.4459	Swapped from Chain 1
+625	-4401.4459	Reject
+626	-4401.4459	Reject
+627	-4401.5757	Swapped from Chain 1
+627	-4401.5757	Reject
+628	-4401.5757	Reject
+629	-4401.4960	Swapped from Chain 1
+629	-4401.4960	Reject
+630	-4401.4960	Reject
+631	-4401.4492	Swapped from Chain 1
+631	-4401.4492	Reject
+632	-4401.4492	Reject
+633	-4401.5407	Swapped from Chain 1
+633	-4401.5407	Reject
+634	-4401.5407	Reject
+635	-4401.5611	Swapped from Chain 1
+635	-4401.5611	Reject
+636	-4401.5611	Reject
+637	-4402.5730	Swapped from Chain 1
+637	-4402.5730	Reject
+638	-4402.5730	Reject
+639	-4402.5773	Swapped from Chain 1
+639	-4402.5773	Reject
+640	-4402.5773	Reject
+641	-4401.5418	Swapped from Chain 1
+641	-4401.5418	Reject
+642	-4401.5418	Reject
+643	-4402.5454	Swapped from Chain 1
+643	-4402.5454	Reject
+644	-4402.5454	Reject
+645	-4401.4464	Swapped from Chain 1
+645	-4401.4464	Reject
+646	-4401.4464	Reject
+647	-4402.5484	Swapped from Chain 1
+647	-4402.5484	Reject
+648	-4402.5484	Reject
+649	-4401.4467	Swapped from Chain 1
+649	-4401.4467	Reject
+650	-4401.4467	Reject
+651	-4401.4459	Swapped from Chain 1
+651	-4401.4459	Reject
+652	-4401.4459	Reject
+653	-4401.4642	Swapped from Chain 1
+653	-4401.4642	Reject
+654	-4401.4642	Reject
+655	-4401.4833	Swapped from Chain 1
+655	-4401.4833	Reject
+656	-4401.4833	Reject
+657	-4401.4459	Swapped from Chain 1
+657	-4401.4459	Reject
+658	-4401.4459	Reject
+659	-4401.5442	Swapped from Chain 1
+659	-4401.5442	Reject
+660	-4401.5442	Reject
+661	-4401.4511	Swapped from Chain 1
+661	-4401.4511	Reject
+662	-4401.4511	Reject
+663	-4401.5757	Swapped from Chain 1
+663	-4401.5757	Reject
+664	-4401.5757	Reject
+665	-4401.4960	Swapped from Chain 1
+665	-4401.4960	Reject
+666	-4401.4960	Reject
+667	-4401.4492	Swapped from Chain 1
+667	-4401.4492	Reject
+668	-4401.4492	Reject
+669	-4401.5407	Swapped from Chain 1
+669	-4401.5407	Reject
+670	-4401.5407	Reject
+671	-4401.5611	Swapped from Chain 1
+671	-4401.5611	Reject
+672	-4401.5611	Reject
+673	-4401.4509	Swapped from Chain 1
+673	-4401.4509	Reject
+674	-4401.4509	Reject
+675	-4402.5730	Swapped from Chain 1
+675	-4402.5730	Reject
+676	-4402.5730	Reject
+677	-4401.5418	Swapped from Chain 1
+677	-4401.5418	Reject
+678	-4401.5418	Reject
+679	-4401.4467	Swapped from Chain 1
+679	-4401.4467	Reject
+680	-4401.4467	Reject
+681	-4401.4464	Swapped from Chain 1
+681	-4401.4464	Reject
+682	-4401.4464	Reject
+683	-4402.5484	Swapped from Chain 1
+683	-4402.5484	Reject
+684	-4402.5484	Reject
+685	-4401.5761	Swapped from Chain 1
+685	-4401.5761	Reject
+686	-4401.5761	Reject
+687	-4402.5454	Swapped from Chain 1
+687	-4402.5454	Reject
+688	-4402.5454	Reject
+689	-4401.4459	Swapped from Chain 1
+689	-4401.4459	Reject
+690	-4401.4459	Reject
+691	-4401.5411	Swapped from Chain 1
+691	-4401.5411	Reject
+692	-4401.5411	Reject
+693	-4401.4459	Swapped from Chain 1
+693	-4401.4459	Reject
+694	-4401.4459	Reject
+695	-4401.5407	Swapped from Chain 1
+695	-4401.5407	Reject
+696	-4401.5407	Reject
+697	-4401.5442	Swapped from Chain 1
+697	-4401.5442	Reject
+698	-4401.5442	Reject
+699	-4401.5611	Swapped from Chain 1
+699	-4401.5611	Reject
+700	-4401.5611	Reject
+701	-4401.5757	Swapped from Chain 1
+701	-4401.5757	Reject
+702	-4401.5757	Reject
+703	-4401.4492	Swapped from Chain 1
+703	-4401.4492	Reject
+704	-4401.4492	Reject
+705	-4401.5439	Swapped from Chain 1
+705	-4401.5439	Reject
+706	-4401.5439	Reject
+707	-4403.2302	Swapped from Chain 1
+707	-4403.2302	Reject
+708	-4403.2302	Reject
+709	-4401.4509	Swapped from Chain 1
+709	-4401.4509	Reject
+710	-4401.4509	Reject
+711	-4401.4753	Swapped from Chain 1
+711	-4401.4753	Reject
+712	-4401.4753	Reject
+713	-4401.4459	Swapped from Chain 1
+713	-4401.4459	Reject
+714	-4401.4459	Reject
+715	-4401.5418	Swapped from Chain 1
+715	-4401.5418	Reject
+716	-4401.5418	Reject
+717	-4401.4467	Swapped from Chain 1
+717	-4401.4467	Reject
+718	-4401.4467	Reject
+719	-4401.5411	Swapped from Chain 1
+719	-4401.5411	Reject
+720	-4401.5411	Reject
+721	-4402.5420	Swapped from Chain 1
+721	-4402.5420	Reject
+722	-4402.5420	Reject
+723	-4401.5761	Swapped from Chain 1
+723	-4401.5761	Reject
+724	-4401.5761	Reject
+725	-4402.5454	Swapped from Chain 1
+725	-4402.5454	Reject
+726	-4402.5454	Reject
+727	-4401.5407	Swapped from Chain 1
+727	-4401.5407	Reject
+728	-4401.5407	Reject
+729	-4401.5611	Swapped from Chain 1
+729	-4401.5611	Reject
+730	-4401.5611	Reject
+731	-4401.5442	Swapped from Chain 1
+731	-4401.5442	Reject
+732	-4401.5442	Reject
+733	-4401.4509	Swapped from Chain 1
+733	-4401.4509	Reject
+734	-4401.4509	Reject
+735	-4401.5439	Swapped from Chain 1
+735	-4401.5439	Reject
+736	-4401.5439	Reject
+737	-4401.5757	Swapped from Chain 1
+737	-4401.5757	Reject
+738	-4401.5757	Reject
+739	-4401.4492	Swapped from Chain 1
+739	-4401.4492	Reject
+740	-4401.4492	Reject
+741	-4401.7265	Swapped from Chain 1
+741	-4401.7265	Reject
+742	-4401.7265	Reject
+743	-4401.4753	Swapped from Chain 1
+743	-4401.4753	Reject
+744	-4401.4753	Reject
+745	-4401.5411	Swapped from Chain 1
+745	-4401.5411	Reject
+746	-4401.5411	Reject
+747	-4402.5484	Swapped from Chain 1
+747	-4402.5484	Reject
+748	-4402.5484	Reject
+749	-4401.4467	Swapped from Chain 1
+749	-4401.4467	Reject
+750	-4401.4467	Reject
+751	-4401.4459	Swapped from Chain 1
+751	-4401.4459	Reject
+752	-4401.4459	Reject
+753	-4401.5418	Swapped from Chain 1
+753	-4401.5418	Reject
+754	-4401.5418	Reject
+755	-4401.4832	Swapped from Chain 1
+755	-4401.4832	Reject
+756	-4401.4832	Reject
+757	-4402.5420	Swapped from Chain 1
+757	-4402.5420	Reject
+758	-4402.5420	Reject
+759	-4402.5454	Swapped from Chain 1
+759	-4402.5454	Reject
+760	-4402.5454	Reject
+761	-4401.5761	Swapped from Chain 1
+761	-4401.5761	Reject
+762	-4401.5761	Reject
+763	-4401.5407	Swapped from Chain 1
+763	-4401.5407	Reject
+764	-4401.5407	Reject
+765	-4401.5611	Swapped from Chain 1
+765	-4401.5611	Reject
+766	-4401.5611	Reject
+767	-4401.5442	Swapped from Chain 1
+767	-4401.5442	Reject
+768	-4401.5442	Reject
+769	-4401.4509	Swapped from Chain 1
+769	-4401.4509	Reject
+770	-4401.4509	Reject
+771	-4401.5646	Swapped from Chain 1
+771	-4401.5646	Reject
+772	-4401.5646	Reject
+773	-4401.5757	Swapped from Chain 1
+773	-4401.5757	Reject
+774	-4401.5757	Reject
+775	-4401.4492	Swapped from Chain 1
+775	-4401.4492	Reject
+776	-4401.4492	Reject
+777	-4401.5418	Swapped from Chain 1
+777	-4401.5418	Reject
+778	-4401.5418	Reject
+779	-4402.5484	Swapped from Chain 1
+779	-4402.5484	Reject
+780	-4402.5484	Reject
+781	-4401.4753	Swapped from Chain 1
+781	-4401.4753	Reject
+782	-4401.4753	Reject
+783	-4401.5411	Swapped from Chain 1
+783	-4401.5411	Reject
+784	-4401.5411	Reject
+785	-4401.4467	Swapped from Chain 1
+785	-4401.4467	Reject
+786	-4401.4467	Reject
+787	-4401.4832	Swapped from Chain 1
+787	-4401.4832	Reject
+788	-4401.4832	Reject
+789	-4401.4458	Swapped from Chain 1
+789	-4401.4458	Reject
+790	-4401.4458	Reject
+791	-4402.5910	Swapped from Chain 1
+791	-4402.5910	Reject
+792	-4402.5910	Reject
+793	-4402.5420	Swapped from Chain 1
+793	-4402.5420	Reject
+794	-4402.5420	Reject
+795	-4401.4509	Swapped from Chain 1
+795	-4401.4509	Reject
+796	-4401.4509	Reject
+797	-4401.5761	Swapped from Chain 1
+797	-4401.5761	Reject
+798	-4401.5761	Reject
+799	-4401.4459	Swapped from Chain 1
+799	-4401.4459	Reject
+800	-4401.4459	Reject
+801	-4401.5407	Swapped from Chain 1
+801	-4401.5407	Reject
+802	-4401.5407	Reject
+803	-4401.5611	Swapped from Chain 1
+803	-4401.5611	Reject
+804	-4401.5611	Reject
+805	-4401.5442	Swapped from Chain 1
+805	-4401.5442	Reject
+806	-4401.5442	Reject
+807	-4401.5646	Swapped from Chain 1
+807	-4401.5646	Reject
+808	-4401.5646	Reject
+809	-4401.5715	Swapped from Chain 1
+809	-4401.5715	Reject
+810	-4401.5715	Reject
+811	-4401.4676	Swapped from Chain 1
+811	-4401.4676	Reject
+812	-4401.4676	Reject
+813	-4401.4492	Swapped from Chain 1
+813	-4401.4492	Reject
+814	-4401.4492	Reject
+815	-4401.5418	Swapped from Chain 1
+815	-4401.5418	Reject
+816	-4401.5418	Reject
+817	-4401.4753	Swapped from Chain 1
+817	-4401.4753	Reject
+818	-4401.4753	Reject
+819	-4402.5501	Swapped from Chain 1
+819	-4402.5501	Reject
+820	-4402.5501	Reject
+821	-4401.5411	Swapped from Chain 1
+821	-4401.5411	Reject
+822	-4401.5411	Reject
+823	-4401.4467	Swapped from Chain 1
+823	-4401.4467	Reject
+824	-4401.4467	Reject
+825	-4401.4832	Swapped from Chain 1
+825	-4401.4832	Reject
+826	-4401.4832	Reject
+827	-4401.4458	Swapped from Chain 1
+827	-4401.4458	Reject
+828	-4401.4458	Reject
+829	-4401.5761	Swapped from Chain 1
+829	-4401.5761	Reject
+830	-4401.5761	Reject
+831	-4401.4509	Swapped from Chain 1
+831	-4401.4509	Reject
+832	-4401.4509	Reject
+833	-4401.4492	Swapped from Chain 1
+833	-4401.4492	Reject
+834	-4401.4492	Reject
+835	-4401.4459	Swapped from Chain 1
+835	-4401.4459	Reject
+836	-4401.4459	Reject
+837	-4401.4753	Swapped from Chain 1
+837	-4401.4753	Reject
+838	-4401.4753	Reject
+839	-4401.5407	Swapped from Chain 1
+839	-4401.5407	Reject
+840	-4401.5407	Reject
+841	-4401.5442	Swapped from Chain 1
+841	-4401.5442	Reject
+842	-4401.5442	Reject
+843	-4401.5646	Swapped from Chain 1
+843	-4401.5646	Reject
+844	-4401.5646	Reject
+845	-4401.5715	Swapped from Chain 1
+845	-4401.5715	Reject
+846	-4401.5715	Reject
+847	-4401.4676	Swapped from Chain 1
+847	-4401.4676	Reject
+848	-4401.4676	Reject
+849	-4401.4753	Swapped from Chain 1
+849	-4401.4753	Reject
+850	-4401.4753	Reject
+851	-4401.4467	Swapped from Chain 1
+851	-4401.4467	Reject
+852	-4401.4467	Reject
+853	-4401.5418	Swapped from Chain 1
+853	-4401.5418	Reject
+854	-4401.5418	Reject
+855	-4401.5411	Swapped from Chain 1
+855	-4401.5411	Reject
+856	-4401.5411	Reject
+857	-4401.5728	Swapped from Chain 1
+857	-4401.5728	Reject
+858	-4401.5728	Reject
+859	-4401.4509	Swapped from Chain 1
+859	-4401.4509	Reject
+860	-4401.4509	Reject
+861	-4401.4818	Swapped from Chain 1
+861	-4401.4818	Reject
+862	-4401.4818	Reject
+863	-4401.4458	Swapped from Chain 1
+863	-4401.4458	Reject
+864	-4401.4458	Reject
+865	-4401.4492	Swapped from Chain 1
+865	-4401.4492	Reject
+866	-4401.4492	Reject
+867	-4401.4616	Swapped from Chain 1
+867	-4401.4616	Reject
+868	-4401.4616	Reject
+869	-4401.4753	Swapped from Chain 1
+869	-4401.4753	Reject
+870	-4401.4753	Reject
+871	-4401.5761	Swapped from Chain 1
+871	-4401.5761	Reject
+872	-4401.5761	Reject
+873	-4402.5501	Swapped from Chain 1
+873	-4402.5501	Reject
+874	-4402.5501	Reject
+875	-4401.4506	Swapped from Chain 1
+875	-4401.4506	Reject
+876	-4401.4506	Reject
+877	-4401.5407	Swapped from Chain 1
+877	-4401.5407	Reject
+878	-4401.5407	Reject
+879	-4401.4458	Swapped from Chain 1
+879	-4401.4458	Reject
+880	-4401.4458	Reject
+881	-4401.5715	Swapped from Chain 1
+881	-4401.5715	Reject
+882	-4401.5715	Reject
+883	-4401.5439	Swapped from Chain 1
+883	-4401.5439	Reject
+884	-4401.5439	Reject
+885	-4401.4676	Swapped from Chain 1
+885	-4401.4676	Reject
+886	-4401.4676	Reject
+887	-4401.4753	Swapped from Chain 1
+887	-4401.4753	Reject
+888	-4401.4753	Reject
+889	-4401.4467	Swapped from Chain 1
+889	-4401.4467	Reject
+890	-4401.4467	Reject
+891	-4401.5411	Swapped from Chain 1
+891	-4401.5411	Reject
+892	-4401.5411	Reject
+893	-4401.4484	Swapped from Chain 1
+893	-4401.4484	Reject
+894	-4401.4484	Reject
+895	-4401.5728	Swapped from Chain 1
+895	-4401.5728	Reject
+896	-4401.5728	Reject
+897	-4401.4818	Swapped from Chain 1
+897	-4401.4818	Reject
+898	-4401.4818	Reject
+899	-4401.5442	Swapped from Chain 1
+899	-4401.5442	Reject
+900	-4401.5442	Reject
+901	-4401.4492	Swapped from Chain 1
+901	-4401.4492	Reject
+902	-4401.4492	Reject
+903	-4401.4616	Swapped from Chain 1
+903	-4401.4616	Reject
+904	-4401.4616	Reject
+905	-4401.4753	Swapped from Chain 1
+905	-4401.4753	Reject
+906	-4401.4753	Reject
+907	-4401.5761	Swapped from Chain 1
+907	-4401.5761	Reject
+908	-4401.5761	Reject
+909	-4401.8889	Swapped from Chain 1
+909	-4401.8889	Reject
+910	-4401.8889	Reject
+911	-4401.4506	Swapped from Chain 1
+911	-4401.4506	Reject
+912	-4401.4506	Reject
+913	-4401.5407	Swapped from Chain 1
+913	-4401.5407	Reject
+914	-4401.5407	Reject
+915	-4401.4458	Swapped from Chain 1
+915	-4401.4458	Reject
+916	-4401.4458	Reject
+917	-4401.5715	Swapped from Chain 1
+917	-4401.5715	Reject
+918	-4401.5715	Reject
+919	-4401.5439	Swapped from Chain 1
+919	-4401.5439	Reject
+920	-4401.5439	Reject
+921	-4401.4676	Swapped from Chain 1
+921	-4401.4676	Reject
+922	-4401.4676	Reject
+923	-4401.4753	Swapped from Chain 1
+923	-4401.4753	Reject
+924	-4401.4753	Reject
+925	-4401.4467	Swapped from Chain 1
+925	-4401.4467	Reject
+926	-4401.4467	Reject
+927	-4401.5411	Swapped from Chain 1
+927	-4401.5411	Reject
+928	-4401.5411	Reject
+929	-4401.4484	Swapped from Chain 1
+929	-4401.4484	Reject
+930	-4401.4484	Reject
+931	-4401.5728	Swapped from Chain 1
+931	-4401.5728	Reject
+932	-4401.5728	Reject
+933	-4401.4818	Swapped from Chain 1
+933	-4401.4818	Reject
+934	-4401.4818	Reject
+935	-4403.2697	Swapped from Chain 1
+935	-4403.2697	Reject
+936	-4403.2697	Reject
+937	-4401.5442	Swapped from Chain 1
+937	-4401.5442	Reject
+938	-4401.5442	Reject
+939	-4401.4616	Swapped from Chain 1
+939	-4401.4616	Reject
+940	-4401.4616	Reject
+941	-4401.5407	Swapped from Chain 1
+941	-4401.5407	Reject
+942	-4401.5407	Reject
+943	-4401.4753	Swapped from Chain 1
+943	-4401.4753	Reject
+944	-4401.4753	Reject
+945	-4401.8889	Swapped from Chain 1
+945	-4401.8889	Reject
+946	-4401.8889	Reject
+947	-4401.4506	Swapped from Chain 1
+947	-4401.4506	Reject
+948	-4401.4506	Reject
+949	-4401.4494	Swapped from Chain 1
+949	-4401.4494	Reject
+950	-4401.4494	Reject
+951	-4401.5411	Swapped from Chain 1
+951	-4401.5411	Reject
+952	-4401.5411	Reject
+953	-4401.4458	Swapped from Chain 1
+953	-4401.4458	Reject
+954	-4401.4458	Reject
+955	-4401.5715	Swapped from Chain 1
+955	-4401.5715	Reject
+956	-4401.5715	Reject
+957	-4401.5439	Swapped from Chain 1
+957	-4401.5439	Reject
+958	-4401.5439	Reject
+959	-4401.4753	Swapped from Chain 1
+959	-4401.4753	Reject
+960	-4401.4753	Reject
+961	-4401.4467	Swapped from Chain 1
+961	-4401.4467	Reject
+962	-4401.4467	Reject
+963	-4401.4484	Swapped from Chain 1
+963	-4401.4484	Reject
+964	-4401.4484	Reject
+965	-4401.4818	Swapped from Chain 1
+965	-4401.4818	Reject
+966	-4401.4818	Reject
+967	-4402.8705	Swapped from Chain 1
+967	-4402.8705	Reject
+968	-4402.8705	Reject
+969	-4401.5728	Swapped from Chain 1
+969	-4401.5728	Reject
+970	-4401.5728	Reject
+971	-4401.8889	Swapped from Chain 1
+971	-4401.8889	Reject
+972	-4401.8889	Reject
+973	-4401.4753	Swapped from Chain 1
+973	-4401.4753	Reject
+974	-4401.4753	Reject
+975	-4401.4616	Swapped from Chain 1
+975	-4401.4616	Reject
+976	-4401.4616	Reject
+977	-4401.4668	Swapped from Chain 1
+977	-4401.4668	Reject
+978	-4401.4668	Reject
+979	-4401.4494	Swapped from Chain 1
+979	-4401.4494	Reject
+980	-4401.4494	Reject
+981	-4401.4458	Swapped from Chain 1
+981	-4401.4458	Reject
+982	-4401.4458	Reject
+983	-4401.4494	Swapped from Chain 1
+983	-4401.4494	Reject
+984	-4401.4494	Reject
+985	-4401.4506	Swapped from Chain 1
+985	-4401.4506	Reject
+986	-4401.4506	Reject
+987	-4403.2697	Swapped from Chain 1
+987	-4403.2697	Reject
+988	-4403.2697	Reject
+989	-4401.5411	Swapped from Chain 1
+989	-4401.5411	Reject
+990	-4401.5411	Reject
+991	-4401.4484	Swapped from Chain 1
+991	-4401.4484	Reject
+992	-4401.4484	Reject
+993	-4401.5439	Swapped from Chain 1
+993	-4401.5439	Reject
+994	-4401.5439	Reject
+995	-4402.5465	Swapped from Chain 1
+995	-4402.5465	Reject
+996	-4402.5465	Reject
+997	-4401.4753	Swapped from Chain 1
+997	-4401.4753	Reject
+998	-4401.4753	Reject
+999	-4401.4467	Swapped from Chain 1
+999	-4401.4467	Reject

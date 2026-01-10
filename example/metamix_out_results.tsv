@@ -1,0 +1,3 @@
+TaxonID	ScientificName	MeanAbundance	CI_Lower	CI_Upper	EstimatedReads	Log10BF	Posterior
+287	Pseudomonas aeruginosa	0.645197	0.564217	0.729948	85.81	666.96	1.00
+# Unknown_Bin_Probability_Floor: 4.1087e-21

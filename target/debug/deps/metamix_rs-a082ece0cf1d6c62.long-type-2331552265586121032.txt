@@ -1,0 +1,1 @@
+&noodles::noodles_sam::header::record::value::Map<noodles::noodles_sam::header::record::value::map::Header>
