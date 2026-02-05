@@ -13,7 +13,9 @@ use crate::step2_reduce::{MatrixEntry, TaxonomyParser};
 fn calculate_total_lambda(scores: &[u8]) -> f64 {
     let mut lambda = 0.0;
     for &score in scores {
-        let q = score as f64;
+        // Standard SAM/BAM encoding is Phred+33
+        let q = (score.saturating_sub(33)) as f64; 
+        
         let p_err = 10f64.powf(-q / 10.0);
         lambda += p_err;
     }
